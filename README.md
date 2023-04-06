@@ -1,5 +1,4 @@
-# LING780
- Topics in Computational Linguistics: Neural Network Models of Linguistic Structur
+# LING780 Topics in Computational Linguistics: Neural Network Models of Linguistic Structure
 
 - language model
 
