@@ -10,6 +10,4 @@
 
 - GPT
 
-- Topic modelling and LDA
-
-- Recursive Neural Nerwork
+- Recursive Neural Network
